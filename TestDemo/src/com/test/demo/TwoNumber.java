@@ -6,7 +6,7 @@ public class TwoNumber {
     
     public static void main(String[] args) {
         
-        int x = 85; 
+        int x = 86; 
         
         int y = 90;
         
