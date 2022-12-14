@@ -8,7 +8,7 @@ public class TwoNumber {
         
         int x = 80; 
         
-        int y = 45;
+        int y = 90;
         
         int sum = x + y;
         
